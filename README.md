@@ -1,7 +1,7 @@
 # CPU-SIM
 CSA-CPU-Sim-Lab# Computer System Architecture – CPU Sim Lab
-Name:- Kumar Arsh
-Roll No:- 26570032
+Name:- Shreyansh Kesarwani
+Roll No:- 26570058
 Course / Semester:- Bsc(hons)computer science,semester-1
 College	Ramanujan College, University of Delhi
 Paper	Computer System Architecture
