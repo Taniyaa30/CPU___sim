@@ -1,6 +1,6 @@
 # CPU-SIM
 CSA-CPU-Sim-Lab# Computer System Architecture – CPU Sim Lab
-Name:- Taniya
+Name:-  Taniya
 Roll No:- 26570063
 Course / Semester:- Bsc(hons)computer science,semester-1
 College	Ramanujan College, University of Delhi
