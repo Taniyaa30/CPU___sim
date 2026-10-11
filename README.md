@@ -1,14 +1,13 @@
-# CPU-SIM
-CSA-CPU-Sim-Lab# Computer System Architecture – CPU Sim Lab
+## CPU-SIM
+CSA-CPU-Sim-Lab## Computer System Architecture – CPU Sim Lab
 <<<<<<< HEAD
 Name:-  Taniya
 =======
-Name:- Taniya
->>>>>>> 06bf4c31b7a314c099b3917831bae92c8d8d0ace
-Roll No:- 26570063
-Course / Semester:- Bsc(hons)computer science,semester-1
-College	Ramanujan College, University of Delhi
-Paper	Computer System Architecture
+# Name:- Taniya
+# Roll No:- 26570063
+# Course / Semester:- Bsc(hons)computer science,semester-1
+# College	Ramanujan College, University of Delhi
+# Paper	Computer System Architecture
 Simulation of Mano's Basic Computer using CPU Sim 4.0.11 (Java 8 with JavaFX). Each practical has its own folder containing the program (where applicable) and the screenshots of its output.
 
 # Repository structure
